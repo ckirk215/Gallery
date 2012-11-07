@@ -1,0 +1,36 @@
+.header {
+	/*background-color: #ff9;*/
+}
+.nav {
+	float: right;
+	list-style: none;
+}
+.nav li {
+	float: left;
+	padding-top: .5em;
+	
+}
+.nav li:after {
+	content: " / ";
+
+}
+.nav li:last-child a {
+	margin-right: 0;
+}
+.nav li:last-child:after {
+	content:none;
+}
+.nav a {
+	font-family: 'Open Sans', sans-serif;
+	color: #000;
+	margin:0 1em;
+}
+.logo {
+	font-size: 2.25em;
+	font-family: 'Megrim', cursive;
+	/*margin-left: 25px;*/
+	margin-top: 5px;
+}
+body {
+	background: #ff0 url('../images/egg_shell_copy.png');
+}
