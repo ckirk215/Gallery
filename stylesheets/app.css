@@ -12,6 +12,7 @@
 }
 .nav li:after {
 	content: " / ";
+	color: #bebebe;
 
 }
 .nav li:last-child a {
@@ -30,7 +31,11 @@
 	font-family: 'Megrim', cursive;
 	/*margin-left: 25px;*/
 	margin-top: 5px;
+	color: #000;
 }
 body {
 	background: #ff0 url('../images/egg_shell_copy.png');
+}
+.gallery1 {
+	padding: 10px;
 }
