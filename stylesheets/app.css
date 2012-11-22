@@ -37,5 +37,6 @@ body {
 	background: #ff0 url('../images/egg_shell_copy.png');
 }
 .gallery1 {
-	padding: 10px;
+	padding-top: 20px;
+	float: center;
 }
