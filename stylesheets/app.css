@@ -28,7 +28,7 @@
 }
 .logo {
 	font-size: 2.25em;
-	font-family: 'Megrim', cursive;
+	font-family: 'Megrim', sans-serif;
 	/*margin-left: 25px;*/
 	margin-top: 5px;
 	color: #000;
@@ -39,4 +39,11 @@ body {
 .gallery1 {
 	padding-top: 20px;
 	float: center;
+	padding: 10px;
+}
+.copyright {
+	font-family: 'Open Sans', sans-serif;
+	color: #bebebe;
+	text-align: center;
+	padding: 1em 0;
 }
