@@ -29,7 +29,6 @@
 .logo {
 	font-size: 2.25em;
 	font-family: 'Megrim', sans-serif;
-	/*margin-left: 25px;*/
 	margin-top: 5px;
 	color: #000;
 }
@@ -44,7 +43,13 @@ body {
 
 .copyright {
 	font-family: 'Open Sans', sans-serif;
-	color: #bebebe;
+	color: #000;
 	text-align: center;
 	padding: 1em 0;
+}
+.chevron {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2em;
+	padding: 1em .25em;
+	color: #000;
 }
