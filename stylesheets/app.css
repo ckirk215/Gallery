@@ -7,12 +7,13 @@
 }
 .nav li {
 	float: left;
-	padding-top: .5em;
+	padding-top: .8em;
 	
 }
 .nav li:after {
 	content: " / ";
-	color: #bebebe;
+	/*color: #bebebe;*/
+	color: #b1b1b1;
 
 }
 .nav li:last-child a {
@@ -24,16 +25,16 @@
 .nav a {
 	font-family: 'Open Sans', sans-serif;
 	color: #000;
-	margin:0 1em;
+	margin:0 .5em;
 }
 .logo {
 	font-size: 2.25em;
 	font-family: 'Megrim', sans-serif;
-	margin-top: 5px;
-	color: #000;
+	margin-top: 7px;
+	color: #b1b1b1;
 }
 body {
-	background: #ff0 url('../images/egg_shell_copy.png');
+	background: #ff0 url('../images/husk.png');
 }
 .gallery1 {
 	padding-top: 20px;
@@ -43,7 +44,7 @@ body {
 
 .copyright {
 	font-family: 'Open Sans', sans-serif;
-	color: #000;
+	color: #b1b1b1;
 	text-align: center;
 	padding: 1em 0;
 }
@@ -51,5 +52,5 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 2em;
 	padding: 1em .25em;
-	color: #000;
+	color: #b1b1b1;
 }
