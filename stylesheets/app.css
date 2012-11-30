@@ -13,7 +13,7 @@
 .nav li:after {
 	content: " / ";
 	/*color: #bebebe;*/
-	color: #b1b1b1;
+	color: #cb4044;
 
 }
 .nav li:last-child a {
@@ -27,11 +27,17 @@
 	color: #000;
 	margin:0 .5em;
 }
+.nav a:hover {
+	color: #b1b1b1;
+}
 .logo {
 	font-size: 2.25em;
 	font-family: 'Megrim', sans-serif;
 	margin-top: 7px;
 	color: #b1b1b1;
+}
+.logo:hover {
+	color: #cb4044;
 }
 body {
 	background: #ff0 url('../images/husk.png');
@@ -53,4 +59,7 @@ body {
 	font-size: 2em;
 	padding: 1em .25em;
 	color: #b1b1b1;
+}
+.chevron:hover {
+	color: #cb4044;
 }
