@@ -37,7 +37,7 @@
 	color: #b1b1b1;
 }
 .logo:hover {
-	color: #cb4044;
+	/*color: #cb4044;*/
 }
 body {
 	background: #ff0 url('../images/husk.png');
@@ -62,4 +62,9 @@ body {
 }
 .chevron:hover {
 	color: #cb4044;
+}
+.me {
+	color: #000;
+	margin-top: 1em;
+	background-color: #e6db74
 }
