@@ -36,9 +36,6 @@
 	margin-top: 7px;
 	color: #b1b1b1;
 }
-.logo:hover {
-	/*color: #cb4044;*/
-}
 body {
 	background: #ff0 url('../images/husk.png');
 }
@@ -66,5 +63,5 @@ body {
 .me {
 	color: #000;
 	margin-top: 1em;
-	/*background-color: #b8b8b8;*/
+	font-family: 'Open Sans', sans-serif;
 }
