@@ -47,6 +47,7 @@ body {
 	color: #b1b1b1;
 	text-align: center;
 	padding: 1em 0;
+
 }
 .chevron {
 	font-family: 'Open Sans', sans-serif;
@@ -56,9 +57,4 @@ body {
 }
 .chevron:hover {
 	color: #cb4044;
-}
-.me {
-	color: #000;
-	margin-top: 1em;
-	font-family: 'Open Sans', sans-serif;
 }
