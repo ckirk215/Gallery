@@ -22,6 +22,7 @@
 	font-family: 'Open Sans', sans-serif;
 	color: #000;
 	margin:0 .5em;
+	font-size: 1.05em
 }
 .nav a:hover {
 	color: #b1b1b1;
@@ -46,6 +47,7 @@ body {
 	color: #b1b1b1;
 	text-align: center;
 	padding: 1em 0;
+	font-size: .5em;
 
 }
 .chevron {
@@ -56,4 +58,28 @@ body {
 }
 .chevron:hover {
 	color: #cb4044;
+}
+.bio {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	color: #27292b;
+	padding: 1em 3em;
+	font-size: 1.1em;
+
+}
+.me {
+	/*padding-left: 48em;*/
+	text-align: center;
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.25em;
+}
+.contact {
+	color: #404040;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.1em;
+	text-align: center;
+	color: #cb4044;
+	letter-spacing: .1em;
+
 }
