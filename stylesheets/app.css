@@ -9,7 +9,6 @@
 }
 .nav li:after {
 	content: " / ";
-	/*color: #bebebe;*/
 	color: #cb4044;
 
 }
@@ -34,7 +33,7 @@
 	color: #b1b1b1;
 }
 body {
-	background: #ff0 url('../images/husk.png');
+	background: #fff url('../images/egg_shell.png');
 }
 .gallery1 {
 	padding-top: 20px;
