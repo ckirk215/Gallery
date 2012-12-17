@@ -63,8 +63,9 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	color: #27292b;
-	padding: 1em 3em;
+	padding: 1em 4em;
 	font-size: 1.1em;
+	/*letter-spacing: .1em;*/
 
 }
 .me {
@@ -81,5 +82,6 @@ body {
 	text-align: center;
 	color: #cb4044;
 	letter-spacing: .1em;
+
 
 }
