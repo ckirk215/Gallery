@@ -46,22 +46,18 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	color: #b1b1b1;
 	text-align: center;
-	padding: 1em 0;
+	padding: 1em 14em;
 	font-size: .5em;
 
 }
 .chevron {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 3em;
-	padding: 1em .25em;
+	font-size: 1.5em;
 	color: #b1b1b1;
-	margin-top: 3em;
+	/*margin-left: 25%;*/
 }
 .chevron:hover {
 	color: #cb4044;
-}
-.chev {
-	padding-top: 18em;
 }
 .bio {
 	font-family: 'Open Sans', sans-serif;
