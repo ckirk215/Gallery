@@ -41,7 +41,6 @@ body {
 	float: center;
 	padding: 10px;
 }
-
 .copyright {
 	font-family: 'Open Sans', sans-serif;
 	color: #b1b1b1;
@@ -55,7 +54,6 @@ body {
 	font-size: 1.25em;
 	color: #b1b1b1;
 	padding-bottom: 1em;
-	/*padding-left: 1em;*/
 }
 .chevron:hover {
 	color: #cb4044;
@@ -83,6 +81,4 @@ body {
 	text-align: center;
 	color: #cb4044;
 	letter-spacing: .1em;
-
-
 }
